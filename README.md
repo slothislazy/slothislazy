@@ -25,7 +25,7 @@
 
 ### 🧑‍💻 About me
 
-I'm finishing a **BSc in Computer Science at Bina Nusantara University** (GPA 3.72) and I ship AI systems end to end — from scraping and cleaning data, to training and evaluating models rigorously, to deploying them as bots, dashboards and automated pipelines.
+I have finished my **BSc in Computer Science at Bina Nusantara University** (GPA 3.73) and I ship AI systems end to end — from scraping and cleaning data, to training and evaluating models rigorously, to deploying them as bots, dashboards and automated pipelines.
 
 - 🏢 **Software Engineer Intern @ Optimaxx Prima Teknik** — built a self-hosted RAG support chatbot and a generative-AI video pipeline used in production
 - 🎓 **Exchange semester @ University of Nottingham Malaysia** (GPA 3.80) — AI Methods, Intelligent Agents, Image Processing
